@@ -104,9 +104,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 151
-        width: 641
-        height: 194
+        y: 281
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,11 +121,605 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b142118175c25149868291b8e077543
+      internalID: 783103632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e516a5dafaff9284ca6342c78f24989b
+      internalID: -287325603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3151ced2e8674f246a0caa154a94f9f8
+      internalID: 733246595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303229883fe74844f8ad2877d480c6b2
+      internalID: -392951934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8013315b799250842af2b499ca931fb1
+      internalID: -596098639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e3bd9d77d035c46bf4d1681d2d08a3
+      internalID: 255077871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12b963f16839c24584cb263366b7961
+      internalID: -1221769948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd135b886d475f448e826ed1ffd92f9
+      internalID: 1478000937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef685add30529684fba4f1c59831c398
+      internalID: 1806345103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9533f676fbc83940892b2626bce150a
+      internalID: -111833007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 217
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4307db1103e834e8a1bf1f19068705
+      internalID: 203588700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 217
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8401b83da4000d346b8b77fe9a1b4336
+      internalID: 211280117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 217
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2754e553b51e6c04f93debddb15b1710
+      internalID: 384440385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 217
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad5b3e84cc0c1c45b2b7dcbc9556d22
+      internalID: 1903054275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 217
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c080bae480440a45b92da43e4e5b2e0
+      internalID: 551132494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 217
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae0c83d9d24c734bb18e50573b0d0d8
+      internalID: 1007153840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 217
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad7b8ecf9b754f41b8e2591f05b8a72
+      internalID: -2097614236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 217
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ffe29d28949c440b5e26d8c83981da
+      internalID: -530910860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09afa0f4e98a0b4eac0e822fe731c49
+      internalID: 698810991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 153
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a7c233906bec941a8dcc2770df616a
+      internalID: -1532624528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 153
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ecfb70fee4ccc48b39b4eb01c237a2
+      internalID: 954229014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 153
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2adb7dd9b208448962920ec95350df
+      internalID: 1874427285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 153
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8003f2563fa634aa13b752a7b605f3
+      internalID: -778521280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 153
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbd49fab9338d3419042d5b68b27194
+      internalID: -525983872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 153
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc85f3d82aa8ded458b810f7b5b6060b
+      internalID: 1323380807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 153
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb577e362674db469a1b5148002f1d5
+      internalID: -701301915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flesh tiles and decor_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 153
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af53e5c4c5edcc4181f03331ddcef98
+      internalID: -373972901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: aae90b7bc8d2eb24a8fd734a7ffe1ec7
     internalID: 0
     vertices: []
     indices: 
@@ -136,6 +730,36 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       flesh tiles and decor_0: -690523338902475372
+      flesh tiles and decor_1: 783103632
+      flesh tiles and decor_10: -111833007
+      flesh tiles and decor_11: 203588700
+      flesh tiles and decor_12: 211280117
+      flesh tiles and decor_13: 384440385
+      flesh tiles and decor_14: 1903054275
+      flesh tiles and decor_15: 551132494
+      flesh tiles and decor_16: 1007153840
+      flesh tiles and decor_17: -2097614236
+      flesh tiles and decor_18: -530910860
+      flesh tiles and decor_19: -1726447950
+      flesh tiles and decor_2: -287325603
+      flesh tiles and decor_20: 698810991
+      flesh tiles and decor_21: -1532624528
+      flesh tiles and decor_22: 954229014
+      flesh tiles and decor_23: 1874427285
+      flesh tiles and decor_24: -778521280
+      flesh tiles and decor_25: -525983872
+      flesh tiles and decor_26: 1323380807
+      flesh tiles and decor_27: -701301915
+      flesh tiles and decor_28: -373972901
+      flesh tiles and decor_29: -1561335689
+      flesh tiles and decor_3: 733246595
+      flesh tiles and decor_30: 2039163007
+      flesh tiles and decor_4: -392951934
+      flesh tiles and decor_5: -596098639
+      flesh tiles and decor_6: 255077871
+      flesh tiles and decor_7: -1221769948
+      flesh tiles and decor_8: 1478000937
+      flesh tiles and decor_9: 1806345103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
