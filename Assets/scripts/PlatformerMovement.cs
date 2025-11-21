@@ -9,6 +9,7 @@ using UnityEngine.InputSystem;
 // The following components are also needed: Player Input
 // Gravity for the project is set in Unity at Edit -> Project Settings -> Physics2D -> Gravity Y
 
+
 [RequireComponent(typeof(Rigidbody2D), typeof(CircleCollider2D), typeof(CapsuleCollider2D))]
 public class PlatformerMovement : MonoBehaviour
 {
@@ -31,7 +32,8 @@ public class PlatformerMovement : MonoBehaviour
     private bool wasGrounded;
     private bool isGrounded;
 
-    [SerializeField] private Animator animator;
+    [SerializeField] public Animator animator;
+
     
     void Awake()
     {
@@ -50,6 +52,7 @@ public class PlatformerMovement : MonoBehaviour
     {
         velocity = TranslateInputToVelocity(moveInput);
         
+        
         // Apply jump-input:
         if (jumpInput && wasGrounded)
         {
@@ -66,6 +69,7 @@ public class PlatformerMovement : MonoBehaviour
             }
             else
             {
+                animator.SetBool("isJumping", true);
                 // Has jumped. Play jump sound and/or trigger jump animation etc
             }
         }
@@ -73,6 +77,7 @@ public class PlatformerMovement : MonoBehaviour
         else if (wasGrounded == false && isGrounded == true)
         {
             jumpReleased = false;
+            animator.SetBool("isJumping", false);
             // Has landed, play landing sound and trigger landing animation
         }
         wasGrounded = isGrounded;
